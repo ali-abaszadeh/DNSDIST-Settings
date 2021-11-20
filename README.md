@@ -1,4 +1,2 @@
-# My-Python-Projects
-Python repository
-ali asghar abaszadeh-isi
-my python projects
+Automate local repository update
+
